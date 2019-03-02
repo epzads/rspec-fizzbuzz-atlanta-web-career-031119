@@ -19,7 +19,7 @@ def fizzbuzz(number)
    
  else 
    
-   return "nil" 
+   return nil 
  
  end   
  end 
